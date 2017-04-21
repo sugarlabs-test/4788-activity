@@ -1,0 +1,8 @@
+
+[Activity]
+name = Farmer
+activity_version = 1
+bundle_id = org.ceibaljam.Farmer
+exec = sugar-activity JAMActivityFlash.JAMActivityFlash
+icon = JAMActivityFlash
+show_launcher = yes
